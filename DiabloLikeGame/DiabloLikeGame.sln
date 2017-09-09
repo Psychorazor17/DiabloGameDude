@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiabloLikeGame", "DiabloLikeGame.csproj", "{49610755-12C6-D3BC-7E12-8437C8DDFF19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiabloLikeGame.Editor", "DiabloLikeGame.Editor.csproj", "{761094D9-1DC4-D1D7-BF18-E0C8A383C018}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49610755-12C6-D3BC-7E12-8437C8DDFF19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49610755-12C6-D3BC-7E12-8437C8DDFF19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49610755-12C6-D3BC-7E12-8437C8DDFF19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49610755-12C6-D3BC-7E12-8437C8DDFF19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{761094D9-1DC4-D1D7-BF18-E0C8A383C018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{761094D9-1DC4-D1D7-BF18-E0C8A383C018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{761094D9-1DC4-D1D7-BF18-E0C8A383C018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{761094D9-1DC4-D1D7-BF18-E0C8A383C018}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
